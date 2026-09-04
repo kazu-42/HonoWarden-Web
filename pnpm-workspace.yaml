@@ -1,0 +1,13 @@
+packages: []
+allowBuilds:
+  esbuild: true
+  sharp: true
+  workerd: true
+minimumReleaseAge: 1440
+minimumReleaseAgeStrict: true
+minimumReleaseAgeExclude:
+  - "@cloudflare/vite-plugin@1.45.1"
+  - "@cloudflare/workers-types@5.20260717.1"
+  - lucide-react@1.25.0
+  - miniflare@4.20260714.0
+  - wrangler@4.112.0

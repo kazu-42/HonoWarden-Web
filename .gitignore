@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-e2e/
+coverage/
+.wrangler/
+.dev.vars
+.envrc.local
+playwright-report/
+test-results/
+.workflow/*/results/
+.entire/
+.claude/
